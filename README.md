@@ -42,8 +42,9 @@ A sleek, responsive, dark/light mode password generator built with pure HTML, CS
 - JavaScript  
 
 ## 👤 Author
+
 Created by **Amit Kadam**  
-GitHub: https://github.com/amitkadam96k
+
 
 ## ⭐ Support  
 Star ⭐ the repo  
